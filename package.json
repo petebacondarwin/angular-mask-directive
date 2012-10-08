@@ -1,0 +1,19 @@
+{
+  "author": "Pete Bacon Darwin",
+  "name": "angular-mask-directive",
+  "description": "A masked input directive for AngularJS",
+  "version": "0.0.1",
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/petebacondarwin/angular-mask-directive.git"
+  },
+  "engines": {
+    "node": ">= 0.8.11"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "grunt-contrib-coffee": "~0.3.1"
+  }
+}
